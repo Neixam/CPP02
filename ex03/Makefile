@@ -11,7 +11,7 @@
 # **************************************************************************** #
 
 # Variables
-CC		=	g++
+CC		=	c++
 CFLAGS	=	-Wall -Wextra -Werror -std=c++98
 IFLAGS	=	-I includes
 DFLAGS	=	-g -DDEBUG
