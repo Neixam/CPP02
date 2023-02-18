@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #include "Fixed.hpp"
-#include "../../ex01/includes/Fixed.hpp"
+#include "Fixed.hpp"
 
 #include <iostream>
 
